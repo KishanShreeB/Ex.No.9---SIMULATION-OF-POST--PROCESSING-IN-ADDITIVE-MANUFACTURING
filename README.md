@@ -47,8 +47,14 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:KISHAN SHREE B
+### Register Number:212223100022
+![Screenshot 2024-10-26 053237](https://github.com/user-attachments/assets/c59d2533-6633-4fc9-a669-2f41343c0852)
+![Screenshot 2024-10-26 053301](https://github.com/user-attachments/assets/931d4334-6a8a-4ec6-aa98-d2b0f374b248)
+![Screenshot 2024-10-26 053437](https://github.com/user-attachments/assets/4ae7527c-eb22-4f4f-88c0-ffa9aa1972a8)
+
+
+
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
